@@ -1,8 +1,11 @@
 {
 	"name": "vscode-json-helper",
-	"displayName": "vscode-json-helper",
-	"description": "",
-	"version": "0.0.1",
+	"displayName": "Grizz: Json Helper",
+	"description": "A small vscode extension to help copy and pasting minified json into a document as formatted json.",
+	"repository": "https://github.com/Grizzlage/vscode-format-helper",
+	"publisher": "grizzlage",
+	"version": "1.0.0",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.79.0"
 	},
